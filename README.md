@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ailhak
+- 👋 Hi, I’m @ailhak aka GrannyAil
 - 👀 I’m interested in learning how to code so I can work from home as I'm a SAHM.
 - 🌱 I’m currently learning phython, java, and xml.
 - 💞️ I’m looking to collaborate on nothing at the moment. I have only just started learning to tread water and am of no help to anyone.
